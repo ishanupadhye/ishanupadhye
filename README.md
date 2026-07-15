@@ -121,4 +121,4 @@ Development of an autonomous rover platform featuring double bogie suspension an
 
 📧 **Email:** *ishanupadhye@gmail.com*
 
-*Perseverance is the driver. Hard Work, Discipline and Success are its fan-outs.*
+*Perseverance is the driver. Hard Work, Discipline and Excellence are merely its fan-outs.*
