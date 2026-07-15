@@ -88,14 +88,13 @@ Development of an autonomous rover platform featuring double bogie suspension an
 
 - Verilog HDL
 - Python
-- C++
 
 ### EDA Tools
 
-- Cadence Innovus
+- Cadence
 - Xilinx Vivado
 - OpenLane
-- QuestaSim
+- Quartus
 
 ### Domains
 
@@ -103,9 +102,6 @@ Development of an autonomous rover platform featuring double bogie suspension an
 - ASIC Physical Design
 - Analog Layout
 - Computer Architecture
-- RISC-V
-- Hardware Cryptography
-- Machine Learning for Physical Design
 
 ---
 
@@ -113,9 +109,9 @@ Development of an autonomous rover platform featuring double bogie suspension an
 
 - Static Timing Analysis (STA)
 - Design for Testability (DFT)
-- Advanced Physical Design Methodologies
+- Advanced Physical Design 
 - Analog Layout Design
-- UVM & Verification
+- Verification
 
 ---
 
@@ -123,6 +119,6 @@ Development of an autonomous rover platform featuring double bogie suspension an
 
 💼 **LinkedIn:** https://www.linkedin.com/in/ishanupadhye
 
-📧 **Email:** *(your email here)*
+📧 **Email:** *ishanupadhye@gmail.com*
 
 *Perseverance is the driver. Hard Work, Discipline and Success are its fan-outs.*
