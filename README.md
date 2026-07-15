@@ -1,6 +1,6 @@
 ## Hello, I'm Ishan 👋
 
-I'm **Ishan Upadhye**, a **VLSI Engineer** with an **M.Tech in VLSI Design** from **Nirma University**, passionate about **RTL Design**, **ASIC Backend Design (Physical Design & Analog Layout)**, and **Processor Design**.
+Welcome to my GitHub profile! This is **Ishan Upadhye** a **VLSI Engineer** with an **M.Tech in VLSI Design** from **Nirma University**, passionate about **RTL Design**, **ASIC Backend Design (Physical Design & Analog Layout)**, and **Processor Design**, let me walk you through my live profile.
 
 
 
