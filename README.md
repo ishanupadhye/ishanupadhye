@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Ishan Upadhye**, a **VLSI Engineer** with an **M.Tech in VLSI Design** from **Nirma University**, passionate about **RTL Design**, **ASIC Backend Design (Physical Design & Analog Layout)**, and **RISC-V Processor Design**.
+I'm **Ishan Upadhye**, a **VLSI Engineer** with an **M.Tech in VLSI Design** from **Nirma University**, passionate about **RTL Design**, **ASIC Backend Design (Physical Design & Analog Layout)**, and **Processor Design**.
 
 
 
