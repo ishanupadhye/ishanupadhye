@@ -38,6 +38,39 @@ Development of an autonomous rover platform featuring double bogie suspension an
 
 ---
 
+## 🛠 Tech Stack
+
+### Languages
+
+- Verilog HDL
+- Python
+
+### EDA Tools
+
+- Cadence
+- Xilinx Vivado
+- OpenLane
+- Quartus
+
+### Domains
+
+- RTL Design
+- ASIC Physical Design
+- Analog Layout
+- Computer Architecture
+
+---
+
+## 🌱 Currently Learning
+
+- Static Timing Analysis (STA)
+- Design for Testability (DFT)
+- Advanced Physical Design 
+- Analog Layout Design
+- Verification
+
+---
+
 ## 📄 Publications
 
 ### 🥇 First Author
@@ -79,39 +112,6 @@ Development of an autonomous rover platform featuring double bogie suspension an
 - 🎤 **Student Research Forum & Fellowship Recipient** – 39th Conference on VLSI Design, 25th Conference on Embedded Systems (2025).
 - 🥉 **Top 3% Nationally** – RoboFest 3.0, winning **₹7,50,000** in prize money (2024).
 - 🌟 **NPTEL Star – Motivated Learner** – Ranked among the **Top 0.7%** learners nationwide (2023).
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-- Verilog HDL
-- Python
-
-### EDA Tools
-
-- Cadence
-- Xilinx Vivado
-- OpenLane
-- Quartus
-
-### Domains
-
-- RTL Design
-- ASIC Physical Design
-- Analog Layout
-- Computer Architecture
-
----
-
-## 🌱 Currently Learning
-
-- Static Timing Analysis (STA)
-- Design for Testability (DFT)
-- Advanced Physical Design 
-- Analog Layout Design
-- Verification
 
 ---
 
