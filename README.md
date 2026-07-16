@@ -16,6 +16,10 @@ A custom lightweight cryptographic co-processor integrated with a 5-stage pipeli
 
 Complete RTL-to-GDSII implementation of the PicoRV32 RISC-V processor using OpenLane (Sky130), featuring physical design visualization and comparative PPA analysis with a commercial Cadence (GPDK90) implementation.
 
+### 🧪 [Design and Implementation of Variable Gain Amplifier (VGA)](https://github.com/ishanupadhye/Design-and-Implementation-of-Variable-Gain-Amplifier-VGA)
+
+Design and implementation of a CMOS Variable Gain Amplifier (VGA) in Cadence Virtuoso (180 nm), covering the complete custom analog IC design flow including schematic design, layout, DRC/LVS verification, RC extraction, Monte Carlo analysis, and post-layout simulation.
+
 ---
 
 ## 🛣️ Upcoming Open-Source Projects
