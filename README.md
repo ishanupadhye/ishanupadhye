@@ -12,6 +12,10 @@ Welcome to my GitHub profile! This is **Ishan Upadhye** a **VLSI Engineer** with
 
 A custom lightweight cryptographic co-processor integrated with a 5-stage pipelined RISC-V processor, implemented in Verilog HDL for secure edge computing applications.
 
+### 🔧 [RISC-V ASIC Implementation](https://github.com/ishanupadhye/RISC-V-ASIC-Implementation)
+
+Complete RTL-to-GDSII implementation of the PicoRV32 RISC-V processor using OpenLane (Sky130), featuring physical design visualization and comparative PPA analysis with a commercial Cadence (GPDK90) implementation.
+
 ---
 
 ## 🛣️ Upcoming Open-Source Projects
