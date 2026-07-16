@@ -6,7 +6,7 @@ Welcome to my GitHub profile! This is **Ishan Upadhye** a **VLSI Engineer** with
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 🔐 [RISC-V Crypto Co-Processor](https://github.com/ishanupadhye/RISC-V-Crypto-CoProcessor)
 
