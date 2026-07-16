@@ -28,10 +28,6 @@ Design and implementation of a CMOS Variable Gain Amplifier (VGA) in Cadence Vir
 
 Generation of congestion and DRC datasets using Cadence Innovus for machine learning driven early-stage physical verification.
 
-### 📡 Design & Implementation of Variable Gain Amplifier (VGA) (180 nm Technology)
-
-Analog CMOS design, simulation and performance analysis of a Variable Gain Amplifier using 180 nm technology.
-
 ### ⚡ Design of Circuit Implementing Pre-Charge Evaluation Logic using Dynamic CMOS Logic
 
 Implementation and analysis of high-speed Dynamic CMOS logic with pre-charge and evaluation phases.
