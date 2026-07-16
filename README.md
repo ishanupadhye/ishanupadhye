@@ -10,7 +10,7 @@ Welcome to my GitHub profile! This is **Ishan Upadhye** a **VLSI Engineer** with
 
 ### 🔐 [RISC-V Crypto Co-Processor](https://github.com/ishanupadhye/RISC-V-Crypto-CoProcessor)
 
-A custom AES-128 cryptographic co-processor integrated with a 5-stage pipelined RISC-V processor, implemented in Verilog HDL for secure edge computing applications.
+A custom lightweight cryptographic co-processor integrated with a 5-stage pipelined RISC-V processor, implemented in Verilog HDL for secure edge computing applications.
 
 ---
 
