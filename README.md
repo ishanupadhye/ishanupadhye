@@ -121,7 +121,7 @@ Development of an autonomous rover platform featuring double bogie suspension an
 
 ## 🤝 Let's Connect
 
-💼 **LinkedIn:** https://www.linkedin.com/in/ishanupadhye
+💼 **LinkedIn:** linkedin.com/in/ishan-upadhye/
 
 📧 **Email:** *ishanupadhye@gmail.com*
 
