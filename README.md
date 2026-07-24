@@ -112,7 +112,7 @@ Development of an autonomous rover platform featuring double bogie suspension an
 
 ## 🏆 Achievements
 
-- 🎓 **Scholar Certificate** – Awarded Scholar Certificate for securing **SGPA 9.0** in Semester 3 (2026).
+- 🎓 **Scholar Certificates** – Awarded 2x Scholar Certificates for securing **SGPA 9.0** in Semester 3, 4 (2026).
 - 🎤 **Student Research Forum & Fellowship Recipient** – 39th Conference on VLSI Design, 25th Conference on Embedded Systems (2025).
 - 🥉 **Top 3% Nationally** – RoboFest 3.0, winning **₹7,50,000** in prize money (2024).
 - 🌟 **NPTEL Star – Motivated Learner** – Ranked among the **Top 0.7%** learners nationwide (2023).
