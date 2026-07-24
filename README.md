@@ -104,7 +104,7 @@ Development of an autonomous rover platform featuring double bogie suspension an
 
 **Application No.:** 202621071345
 
-**Status:** Patent Filed
+**Status:** Patent Filed (Application ready for publication)
 
 **Filed:** June 2026
 
